@@ -1,2 +1,3 @@
 # simon-game
-Simon game
+Famous Simon game
+#Musix #Click #Go
